@@ -255,7 +255,7 @@ h2 {
     text-decoration: none;
 }
 
-button{
+.btn_wp_estatico{
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -345,7 +345,7 @@ footer {
         right: 18%;
     }
 
-    button{
+    .btn_wp_estatico{
         width: 100%;
     }
 
@@ -449,7 +449,7 @@ footer {
         flex-direction: column;
     }
 
-    button{
+    .btn_wp_estatico{
         width: 100%;
         padding: 10px;
 
