@@ -319,6 +319,13 @@ footer {
     animation: efectoBotonW 1.2s infinite;
 }
 
+.btn_wp_flotante{
+    border-radius: 50%;
+    border: none;
+    background-color: #24CC63;
+}
+
+
 .container__botonw:hover {
     transform: scale(1.1);
     transition: .3s;
