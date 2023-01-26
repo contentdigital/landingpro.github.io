@@ -337,6 +337,12 @@ footer {
     transition: ease 1s;
 }
 
+.texto_trans_btn_flotante_rastreofb{
+    font-size: 1px;
+    color: #24CC63;
+    padding: 0px;
+}
+
 /* -----------------------------Media_query_768-1023-------------------------------------- */
 
 @media (min-width:768px) and (max-width:1023px) {
